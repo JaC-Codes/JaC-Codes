@@ -17,6 +17,7 @@ There is also a contact from which sends an automatic email with the field conte
 This is currently as far as I have gotten as I lack the front end skills to develop the webpage more and implement features for when a user is signed in.
 I am now in the process of continuing my JavaScript knowledge with the OOP concepts (Although having a good understanding of OOP in Java) and other JS concepts. 
 
+I will return to Java at some point as I very much like the language and concepts it possesses and I will gain more knowledge of the Spring Boot framework and REST Api's in general.
 In my spare time I am also learning AWS but this is very fresh so currently not much to mention.
 
 Langauges I have experience using:
