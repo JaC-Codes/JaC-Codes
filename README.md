@@ -1,7 +1,7 @@
 👨‍💻JaC Codes👨‍💻
 
 
-ABOUT ME:
+ABOUT MY CODING EXPERIENCE:
 
 I am 22 years of age. I have been coding for around 7 months now. I first started of coding with Java and had an interest in the Spigot API. I made tons of progress very quickly. 
 I started to take an interest in the backend side of development and was fascinated by how it all worked. I made a development case user signup/login system in Java which sent an automatated email to the users email address with their details. 
