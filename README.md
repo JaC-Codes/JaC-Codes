@@ -1,6 +1,9 @@
 👨‍💻JaC Codes👨‍💻
 
 
+Currently designing a persons record. This software will be designed specifically for doctors/gp's. It will allow for easy persons search and information refine. I'm using Java, MongoDB for the database and JavaSwing for the user interface.
+
+
 ABOUT MY CODING EXPERIENCE:
 
 I am 22 years of age. I have been coding for around 7 months now. I first started of coding with Java and had an interest in the Spigot API. I made tons of progress very quickly. 
